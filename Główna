@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kempa.pl</title>
+</head>
+<body style="background-color: #24a6f0 ;" id="body" data-page="welcome!">
+    <header id="main-header">
+        <nav style="background-color: #39b4fc ;">
+            <h1>
+                <a href="moja strona.html">Kempa.pl</a>
+            </h1>
+            <div id="menu-bg">
+                <ul style="float: right">
+                    <li>
+                        <a href="moja strona.html">
+                            <span>Współpraca</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="">
+                            <span>Blog</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="Portofolio.html">
+                            <span>Portofolio</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="">
+                            <span>Kontakt</span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+<br><br><br><br>
+    <main class="notification-container" id="welcome">
+        <section id="witaj" class="page page-full-height page-full-width page-blue">
+            <div class="container" style="transform: translateY(0%); opacity: 1;">
+                <h2>
+                    Witaj. Mam na imię Miłosz. Tworzę <span class="color-green">dosyć dobre</span> oprogramowanie w <span class="color-yellow">dobrej </span>cenie. <br> Nigdy naprawdę nie programowałem lecz tekst mogę na środku strony napisać
+                </h2>
+                <!-- <nav class="row">
+                    <a href="#omnie" class="col-xs-6 col-sm-3">
+                        <figure>
+                            <figcaption>
+                                <strong>Moja oferta</strong>
+                                <p>
+                                    Jeśli nie posiadasz do realizacji projektu IT niestety nie trafiłeś! Zobacz czego nie mogę dla Ciebie zrobić.
+                                </p>
+                            </figcaption>
+                        </figure>
+                    </a>
+                </nav> -->
+            </div>
+    </main>
+</body>
+</html>
